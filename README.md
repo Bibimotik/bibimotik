@@ -16,7 +16,9 @@
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="firebase" width="40" height="40"/> </a> 
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="html5" width="40" height="40"/> </a> 
 </p>
-
+<p align="center">
+  <a href="https://www.codewars.com/users/Bibimotik" target="_blank"> <img src="https://www.codewars.com/users/Bibimotik/badges/large" alt="Codewars"/> </a> 
+</p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bibimotik&layout=donut&theme=radical" alt="Bibimotik" />
 </p>
@@ -24,7 +26,10 @@
   <a align="center" href="https://www.instagram.com/bibim0tik/">
     <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a align="center" href="https://t.me/bibimotik">
+  <a align="center" href="https://www.linkedin.com/in/mikhail-bankuzau-2519201ba/">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a align="center" href="https://www.linkedin.com/in/mikhail-bankuzau-2519201ba/">
+    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logoColor=white" alt="Linkedin"/>
   </a>
 </div>
