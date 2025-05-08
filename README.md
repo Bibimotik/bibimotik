@@ -26,7 +26,7 @@
   <a align="center" href="https://www.instagram.com/bibim0tik/">
     <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a align="center" href="https://www.linkedin.com/in/mikhail-bankuzau-2519201ba/">
+  <a align="center" href="https://t.me/bibimotik">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a align="center" href="https://www.linkedin.com/in/mikhail-bankuzau-2519201ba/">
