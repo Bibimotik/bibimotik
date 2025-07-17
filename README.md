@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mikhail</h1>
 <h1 align="center">Now work💼 at LWO 
-  <a href="https://lwo.by" target="_blank"> <img src="https://downloader.disk.yandex.ru/preview/d6fe544648016e4d5be88f3e01bbb12ad81067ca04c08c4914991efc6a2348ce/6878da23/46fFlmDT540gZccZMqJCtMpBgPAplpODo6B3upd9Djt9mN4bwmu0FvCtQmYaRLPOfxBd-E3a_NIMp83WqFm-_w%3D%3D?uid=0&filename=2025-07-17%2010-09-20.JPG&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v3&size=2048x2048" alt="LWO" width="40" height="40"/> </a> 
+  <a href="https://lwo.by" target="_blank"> <img src="https://downloader.disk.yandex.ru/preview/d6fe544648016e4d5be88f3e01bbb12ad81067ca04c08c4914991efc6a2348ce/6878da23/46fFlmDT540gZccZMqJCtMpBgPAplpODo6B3upd9Djt9mN4bwmu0FvCtQmYaRLPOfxBd-E3a_NIMp83WqFm-_w%3D%3D?uid=0&filename=2025-07-17%2010-09-20.JPG&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v3&size=2048x2048" alt="LWO" width="60" height="60"/> </a> 
   <br>Since 21.10.2024
 </h1>
 <h3 align="center">Languages and Tools:</h3>
