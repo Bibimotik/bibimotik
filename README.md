@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mikhail</h1>
 <h1 align="center">Now work💼 at 
-  <a href="https://lwo.by" target="_blank"> <img src="https://lwo.by/app/uploads/2025/02/lwo_logo.svg" alt="LWO" width="60" height="60"/> </a> 
-  <br>Since 21.10.2024
+  <a href="https://bankdabrabyt.by" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx7WGfT22FtIqnKzWnq7q8CTOLq3xN2YwNnw&s" alt="Bank Dabrabyt" width="60" height="60"/> </a> since 18.11.2025
+</h1>
+<h1 align="center">From 21.10.2024 to 11.11.2025 (1y 1m) work at
+  <a href="https://lwo.by" target="_blank"> <img src="https://lwo.by/app/uploads/2025/02/lwo_logo.svg" alt="LWO" width="60" height="60"/> </a>
 </h1>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
