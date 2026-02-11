@@ -22,9 +22,6 @@
 <p align="center">
   <a href="https://www.codewars.com/users/Bibimotik" target="_blank"> <img src="https://www.codewars.com/users/Bibimotik/badges/large" alt="Codewars"/> </a> 
 </p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bibimotik&layout=donut&theme=radical" alt="Bibimotik" />
-</p>
 <div align="center" id="badges">
   <a align="center" href="https://www.instagram.com/bibim0tik/">
     <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
